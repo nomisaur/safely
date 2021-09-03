@@ -1,0 +1,17 @@
+{
+  "name": "@emberscodes/safely",
+  "version": "1.0.0",
+  "description": "safely catch errors from promises or functions, asynchronously or synchronously",
+  "license": "MIT",
+  "repository": "nomisaur/safely",
+  "main": "index.js",
+  "keywords": [
+    "try",
+    "catch",
+    "trycatch",
+    "promise",
+    "safe",
+    "safely",
+    "safer"
+  ]
+}
