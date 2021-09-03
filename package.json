@@ -1,6 +1,6 @@
 {
   "name": "@emberscodes/safely",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "safely catch errors from promises or functions, asynchronously or synchronously",
   "license": "MIT",
   "repository": "nomisaur/safely",
