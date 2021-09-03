@@ -49,8 +49,8 @@ safely is very useful:
 
 ```javascript
 const [[bonkResult, bonkError], [images, imagesError]] = await Promise.all([
-  fetch("bonk.com"),
-  fetch("bonk.com/images"),
+  safely(fetch("bonk.com")),
+  safely(fetch("bonk.com/images")),
 ]);
 ```
 
